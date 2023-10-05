@@ -1,2 +1,3 @@
-#!/bin/bash
-echo "./0-current_working_directory/basics"
+ #!/bin/bash
+ echo "./0-current_working_directory
+/basics"

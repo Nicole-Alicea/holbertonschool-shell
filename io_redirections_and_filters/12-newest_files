@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l -n 10
+ls -l -t 10

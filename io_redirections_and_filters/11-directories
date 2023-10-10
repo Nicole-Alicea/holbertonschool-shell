@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -d | grep"^-d --directories" | wc -d
+ls -d | grep"^-d" | wc -d

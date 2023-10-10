@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -d | grep"^-d" | wc -d
+find . ls -d | grep"^-d" | wc -d

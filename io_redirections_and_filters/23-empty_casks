@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty -type f -o -type d ls -a | cat
+find . -empty -type f -o -type d 

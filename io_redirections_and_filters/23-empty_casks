@@ -1,2 +1,2 @@
 #!/bin/bash
-find . \(-type d -empty -o -type f -empty \) -o -type d -name ".*" -o -type f -name ".*" -printf "%P\n"
+find . \(-type d -empty -o -type f -empty \) -o -type d -name ".*" -o -type f -name ".*" | while read -r item; do echo "$item"

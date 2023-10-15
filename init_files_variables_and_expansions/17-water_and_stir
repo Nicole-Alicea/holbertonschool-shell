@@ -1,2 +1,2 @@
 #!/bin/bash
-sum=$(($WATER + $STIR)) | echo "bestchol"
+echo $(($WATER + $STIR))
